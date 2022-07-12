@@ -4,6 +4,7 @@ This repo contains code to convert any .csv file containing city names into a ht
 
 Markers will change as soon as the city names changes or more cities are added in the .csv file.
 Just need to run this file once in order to implement changes.
+open the users.html file created after execution in any browser to see the output.
 You can do many more things try to explore it more.
 
 Please Note - You can optimize this code much further depending on your skills and knowledge. also you can add many elements to it.
